@@ -82,3 +82,5 @@ The notebooks are written in **Python** using **Jupyter**. Typical dependencies 
 
 3. **Adapt the workflow:**  
    If you have access to your own in-phase/out-of-phase + PDFF MRI data, you can adapt the preprocessing and modeling sections in `iop.ipynb` to your dataset and environment.
+
+4. Our results from this code are shown in the figs directory.
